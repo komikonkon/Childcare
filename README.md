@@ -14,6 +14,7 @@
 - 詳細チェックリスト → [checklist.md](checklist.md)
 - 検討すべきこと(意思決定リスト) → [kento.md](kento.md)
 - **わが家専用プラン(豊島区・回答反映版)** → [my-plan.md](my-plan.md)
+- 育休中の経済的援助まとめ → [okane.md](okane.md)
 
 ---
 
