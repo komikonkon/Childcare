@@ -11,7 +11,9 @@
 | 正期産(いつ生まれてもOK) | 37週0日 | 2026年10月22日 |
 | 出産予定日 | 40週0日 | 2026年11月12日 |
 
-詳細チェックリスト → [checklist.md](checklist.md)
+- 詳細チェックリスト → [checklist.md](checklist.md)
+- 検討すべきこと(意思決定リスト) → [kento.md](kento.md)
+- **わが家専用プラン(豊島区・回答反映版)** → [my-plan.md](my-plan.md)
 
 ---
 
