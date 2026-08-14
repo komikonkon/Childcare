@@ -17,6 +17,7 @@
 - 育休中の経済的援助まとめ(いくらもらえるか) → [okane.md](okane.md)
 - **申請手続き一覧(誰が・どこに・いつまでに・何を)** → [tetsuzuki.md](tetsuzuki.md)
 - **会社・健保に確認することリスト(送れる文面つき)** → [kaisha.md](kaisha.md)
+- **上司面談用(渡す資料+想定問答)** → [joushi-mendan.md](joushi-mendan.md)
 
 ---
 
