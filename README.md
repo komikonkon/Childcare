@@ -15,6 +15,7 @@
 - 検討すべきこと(意思決定リスト) → [kento.md](kento.md)
 - **わが家専用プラン(豊島区・回答反映版)** → [my-plan.md](my-plan.md)
 - **保育園リスト・見学メモ(大塚/巣鴨/駒込)** → [hoikuen.md](hoikuen.md)
+- **買うものリスト(出産準備・レンタル比較つき)** → [kaimono.md](kaimono.md)
 - 育休中の経済的援助まとめ(いくらもらえるか) → [okane.md](okane.md)
 - **申請手続き一覧(誰が・どこに・いつまでに・何を)** → [tetsuzuki.md](tetsuzuki.md)
 - **会社・健保に確認することリスト(送れる文面つき)** → [kaisha.md](kaisha.md)
